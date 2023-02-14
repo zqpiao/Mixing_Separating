@@ -5,6 +5,16 @@
 
 ## How to reproduce Mixing_Separating
 
+**Environments**
+
+- Hardware
+  - 2 NVIDIA A100 GPUs
+
+- Software
+  - Python 3.8.5
+  - PyTorch 1.7.1
+  - Torchvision 0.8.2
+  - CUDA 11.1
 
 Following the original implementation, it consists of 2 steps:
 
